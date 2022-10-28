@@ -179,13 +179,7 @@ header .icons #menu-bars{
     box-shadow: var(--box-shadow);    
 }
 
-.menu .box-container .box .image{
-    height: 25rem;
-    width: 100%;
-    padding:1.5rem;
-    overflow: hidden;
-    position: relative;
-}
+
 
 .menu .box-container .box .image img{
     height: 100%;
